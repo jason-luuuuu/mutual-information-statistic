@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mutual information statistic algorithm
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jason
+    family-names: Lu
+    email: jasony0718@gmail.com
+    affiliation: University of Western Australia
+    orcid: 'https://orcid.org/0009-0007-6148-6947'
+repository-code: >-
+  https://github.com/jason-luuuuu/mutual-information-statistic
